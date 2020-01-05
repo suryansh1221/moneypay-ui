@@ -1,0 +1,82 @@
+.container{
+    background-color: black;
+    border-radius: 10px;;
+    padding: 5px;
+    box-shadow: 0px 20px 30px 3px rgba(0, 0, 0, 0.55);
+    color: white;
+    font-family: Montserrat, sans-serif;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.maincontainer{
+    background-color: transparent;
+    max-width: 340px;
+}
+.title{
+    color: lightgray;
+    font-family: Robo;
+    font-style: normal;
+    /* font-weight: bold; */
+    font-size: 23px;
+    line-height: 24px;
+    /* letter-spacing: 0.4px; */
+    margin-bottom: 30px;
+    margin-top: 10px;
+    /* min-width: 102px; */
+    margin-left: 30px;
+    /* text-align: center; */
+    
+}
+.value {
+    color: '#252733';
+    font-family: Robo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    /* letter-spacing: 1px; */
+    line-height: 50px;
+    /* text-align: center; */
+    margin-left: 30px;
+    margin-top: 20px;
+    /* margin-left: 10px; */
+}
+.headerblock{
+    width: 100%;
+}
+.basicinfo{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.descriptionblock{
+    padding: 8px;
+}
+.descriptioncontainer{
+    height: 130px;
+    overflow-y: auto;
+    padding: 3px;
+
+}
+.description{
+    text-align: justify;
+    font-size: 12px;
+}
+.composedclassname{
+    background-color: '#FFFFFF';
+    border-radius: 4;
+    cursor: 'pointer';
+    height: 150;
+    max-width: 340px;
+    padding: '24px 32px 24px 32px';
+    margin-top: 300px;
+    margin-left:400px;
+    box-shadow: 0px 6px 6px  rgba(0, 0, 0, 0.55);
+}
+.checkimg{
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 70px;
+}
+.seccolumn{
+    margin-left: 15px
+}
